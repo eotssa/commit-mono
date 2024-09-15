@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Understanding JavaScript Closures",
+        "url": "blog/understanding-javascript-cldosures.html",
+        "description": "A deep dive into closures and how they work in JavaScript."
+    },
+    {
+        "title": "Exploring CSS Grid Layout",
+        "url": "post2.html",
+        "description": "Learn how to create complex layouts easily with CSS Grid."
+    },
+    {
+        "title": "Introduction to Docker for Developers",
+        "url": "post3.html",
+        "description": "An overview of Docker and how it can streamline your development workflow."
+    }
+]
